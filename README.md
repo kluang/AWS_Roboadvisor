@@ -1,7 +1,7 @@
 # RoboAdvisor
 ![roboadvisor](roboadvisor2.png)
 
-Using Amazon Web Services we created an Amazon Lex bot with a single intent that establishes a conversation about the requirements to suggest an investment portfolio for retirement. We were able to test the bot and have a conversation by bulding and testing, while enhancing the bot with a lambda funciton that validates the user's input and returns the investment portfolio recommendation.
+Using Amazon Web Services I created an Amazon Lex bot with a single intent that establishes a conversation about the requirements to suggest an investment portfolio for retirement. I was able to test the bot and have a conversation by bulding and testing, while enhancing the bot with a lambda funciton that validates the user's input and returns the investment portfolio recommendation.
 
 ## Initialization Configuration Testing . . .
 
@@ -17,7 +17,7 @@ Testing with prompt *"I'm ​{age}​ and I want to invest for my retirement"* :
 
 ## Implementing Lambda Function
 
-By creating a lambda function based on the following parameters, we will validate the user provided data and reccomend an investment portfolio based on the chosen risk level.
+By creating a lambda function based on the following parameters, I will validate the user provided data and reccomend an investment portfolio based on the chosen risk level.
 
 #### User Input Validation
 
